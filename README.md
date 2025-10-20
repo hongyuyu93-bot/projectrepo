@@ -1,2 +1,2 @@
 # Project Repo
-This line is from MAIN branch.
+This line was resolved after merging MAIN and FEATUREX.
